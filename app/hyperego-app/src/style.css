@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Use @import */
+/* @import "tailwindcss/base";
+@import "tailwindcss/components"; */
+/* @import "./primevue/tailwind.css"; */
+/* @import "tailwindcss/utilities"; */
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #faf5ff;
+  background-color: #271e2d;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --primary-50: #faf5ff;
+  --primary-100: #f3e8ff;
+  --primary-200: #e9d5ff;
+  --primary-300: #d8b4fe;
+  --primary-400: #c084fc;
+  --primary-500: #a855f7;
+  --primary-600: #9333ea;
+  --primary-700: #7e22ce;
+  --primary-800: #6b21a8;
+  --primary-900: #581c87;
+  --primary-950: #3b0764;
+
+  --surface-0: #ffffff;
+  --surface-50: #f8fafc;
+  --surface-100: #f1f5f9;
+  --surface-200: #e2e8f0;
+  --surface-300: #cbd5e1;
+  --surface-400: #94a3b8;
+  --surface-500: #64748b;
+  --surface-600: #475569;
+  --surface-700: #334155;
+  --surface-800: #1e293b;
+  --surface-900: #0f172a;
+  --surface-950: #020617;
+
+  --p-stepper-step-title-active-color: #9333ea;
+  --p-stepper-step-title-color: #d8b4fe;
+  --p-stepper-separator-background: #e9d5ff;
+  --p-stepper-separator-active-background: #581c87;
+  --p-stepper-step-number-color: #d8b4fe;
+  --p-stepper-step-number-active-color: #9333ea;
+
+  --p-rating-icon-color: #3b0764;
+  --p-rating-icon-active-color: #a855f7;
+
+  --p-inputtext-padding-x: 4px;
+  --p-inputtext-padding-y: 2px;
+
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+
+  font-family: 'Lora', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.p-steppanel {
+  background-color: transparent !important;
+}
+
+/* .p-button {
+  @apply py-2 px-4 bg-primary-700 text-primary-50 rounded-lg;
+}
+
+.p-button:hover {
+  background-color: var(--primary-900);
+} */
+
+.p-menubar .p-menuitem:hover .p-menuitem-link {
+  color: var(--primary-700);
+}
+
+.p-menubar .p-menuitem:hover .p-menuitem-link {
+  color: var(--primary-700) !important;
+}
+
+.p-steps .p-steps-item .p-menuitem-link {
+  background: var(--primary-600);
+  color: var(--primary-600);
+}
+
+.p-steps .p-steps-item.p-highlight .p-menuitem-link {
+  background: var(--primary-600);
+  color: var(--primary-50);
+}
+
+.p-steps .p-steps-item:before {
+  border-top: 1px solid var(--primary-600);
+  color: var(--primary-600);
+}
+
+.p-steps .p-steps-item .p-menuitem-link .p-steps-title {
+  color: var(--primary-600);
+}
+
+.p-steps .p-steps-item.p-highlight .p-menuitem-link .p-steps-title {
+  color: var(--primary-50);
+}

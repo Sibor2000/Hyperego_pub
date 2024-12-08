@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "hyperego"
+version = "0.1.0"
+description = ""
+authors = ["Raffy27 <raffy27@pm.me>"]
+readme = "README.md"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+pytest = "^8.3.3"
+
+[tool.pytest.ini_options]
+pythonpath = "."
+addopts = [
+    "--import-mode=importlib",
+]
+log_cli = true
+log_cli_level = "INFO"
+log_cli_format = "%(asctime)s [%(levelname)8s] %(message)s"
+log_cli_date_format = "%Y-%m-%d %H:%M:%S"
+filterwarnings = ["ignore::Warning"]
+
+[tool.poetry.dependencies]
+python = "^3.11.5"
+cherrypy = "^18.10.0"
+duckduckgo-search = "^6.3.7"
+langchain-g4f = {git = "https://github.com/MIDORIBIN/langchain-gpt4free.git"}
+langchain-community = "^0.3.9"
+ws4py = "^0.5.1"
+apify-client = "^1.8.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

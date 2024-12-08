@@ -1,0 +1,276 @@
+{
+	"status": "success",
+	"data": [
+		{
+			"#debug": {
+				"requestId": "WQvGWVtXdrw0eb2",
+				"url": "http://www.google.com/search?q=laura+wasser",
+				"loadedUrl": "http://www.google.com/search?q=laura+wasser",
+				"method": "GET",
+				"retryCount": 0,
+				"errorMessages": [],
+				"statusCode": 200
+			},
+			"#error": false,
+			"searchQuery": {
+				"term": "laura wasser",
+				"url": "http://www.google.com/search?q=laura+wasser",
+				"device": "DESKTOP",
+				"page": 1,
+				"type": "SEARCH",
+				"domain": "google.com",
+				"countryCode": "US",
+				"languageCode": null,
+				"locationUule": null,
+				"resultsPerPage": 10
+			},
+			"url": "http://www.google.com/search?q=laura+wasser",
+			"hasNextPage": true,
+			"serpProviderCode": "N",
+			"resultsTotal": 8930000,
+			"relatedQueries": [
+				{
+					"title": "Dennis Wasser",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Dennis+Wasser&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiIARAB"
+				},
+				{
+					"title": "Laura Wasser net worth",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+net+worth&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiKARAB"
+				},
+				{
+					"title": "Laura Wasser husband",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+husband&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiJARAB"
+				},
+				{
+					"title": "Laura Wasser house",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+house&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiBARAB"
+				},
+				{
+					"title": "Laura Wasser kids",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+kids&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiEARAB"
+				},
+				{
+					"title": "Laura Wasser sons",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+sons&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiFARAB"
+				},
+				{
+					"title": "Laura Wasser clients",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+clients&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiGARAB"
+				},
+				{
+					"title": "Laura Wasser law firm",
+					"url": "https://www.google.com/search?sca_esv=d0f09d0ddcc37b6e&q=Laura+Wasser+law+firm&sa=X&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQ1QJ6BQiHARAB"
+				}
+			],
+			"paidResults": [
+				{
+					"title": "Laura Wasser Joins HelloPrenup as Advisor | Legal Expert",
+					"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAAGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAAEgLNVfD_BwE&sig=AOD64_1C82KoA7Ozv82MqwDOYy7ESibXmA&q&nis=4&adurl",
+					"directUrl": "https://helloprenup.com/laura-wasser-joins-helloprenup/",
+					"displayedUrl": "https://www.helloprenup.com",
+					"description": "Our Easy-to-Use Online Platform. Prenup Lawyers Available If Needed. Simple prenups...",
+					"emphasizedKeywords": [],
+					"siteLinks": [
+						{
+							"title": "About Us",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABABGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASABEgLejfD_BwE&sig=AOD64_05SXoecgmXgAUdnv9VYRdVsWx_Ew&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "Contact Us",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABACGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASACEgJizfD_BwE&sig=AOD64_2ozmjxbkkpjJhYFwkEg8lGHfIp6Q&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "How It Works",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABADGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASADEgI7-_D_BwE&sig=AOD64_0V2e8RZauEGbq5HU9z75JSOql3sg&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "HelloPrenup Testimonials",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAEGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAEEgJvDfD_BwE&sig=AOD64_05G7J3f6Tja5BiYW4K7ganUNARQQ&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "Have A Question?",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAFGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAFEgKRpPD_BwE&sig=AOD64_1FTVGWWhXR_QDZWx9GJKrUa3I_2g&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "Log In",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAGGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAGEgK2d_D_BwE&sig=AOD64_3vMvvixJY3JY0pZlDei7SkW0R82g&q&nis=4&adurl",
+							"description": ""
+						},
+						{
+							"title": "Price Per Couple",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAHGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAHEgL0RfD_BwE&sig=AOD64_2wy927NE7cMx7XZzM9LkvT-HgBEg&nis=4&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQhacBegQIPRAT&adurl=",
+							"description": ""
+						},
+						{
+							"title": "Notarized Prenup",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAIGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAIEgKC1_D_BwE&sig=AOD64_1QNK1lR0THP2nP2JgexPGKentmvA&nis=4&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQhacBegQIPRAW&adurl=",
+							"description": ""
+						},
+						{
+							"title": "Attorney Services",
+							"url": "https://www.google.com/aclk?sa=l&ai=DChcSEwjrwa-dzpWKAxXBN9QBHUI7FTEYABAJGgJvYQ&co=1&ase=2&gclid=EAIaIQobChMI68Gvnc6VigMVwTfUAR1COxUxEAMYASAJEgKJ-PD_BwE&sig=AOD64_0DTMaYiBCWwMnCgsj_jokFdqiA5A&nis=4&ved=2ahUKEwiY76qdzpWKAxW14skDHTFxPcEQhacBegQIPRAX&adurl=",
+							"description": ""
+						}
+					],
+					"imageData": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+					"type": "paid",
+					"adPosition": 1
+				}
+			],
+			"paidProducts": [],
+			"organicResults": [
+				{
+					"title": "𝕃𝕒𝕦𝕣𝕒 𝕎𝕒𝕤𝕤𝕖𝕣 (@laurawasserofficial)",
+					"url": "https://www.instagram.com/laurawasserofficial/?hl=en",
+					"displayedUrl": "31.4K+ followers",
+					"description": "Laura A. Wasser | Attorney @Wasser Cooperman Mandles | Chief of Divorce Evolution @Divorce.com | · 1,935 posts · 31,430 followers · 501 following ...",
+					"emphasizedKeywords": [
+						"Laura",
+						"Wasser",
+						"Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 1
+				},
+				{
+					"title": "laura – wasser – Los Angeles Family Law Lawyers",
+					"url": "https://wcmfamilylaw.com/laura-wasser/",
+					"displayedUrl": "https://wcmfamilylaw.com › laura-wasser",
+					"description": "Laura Wasser is a LA-based attorney specializing in California Family Law. She attended the University of California, Berkeley and earned a law degree from ...",
+					"emphasizedKeywords": [
+						"Laura Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 2
+				},
+				{
+					"title": "Laura Wasser",
+					"url": "https://en.wikipedia.org/wiki/Laura_Wasser",
+					"displayedUrl": "https://en.wikipedia.org › wiki › Laura_Wasser",
+					"description": "Laura Allison Wasser (born 1968) is an American attorney specializing in divorce and well-known for her celebrity clients. She currently is chief of divorce ...",
+					"emphasizedKeywords": [
+						"Laura",
+						"Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 3
+				},
+				{
+					"title": "Life Lessons from Laura Wasser, Divorce Lawyer to the Stars",
+					"url": "https://www.newyorker.com/culture/the-new-yorker-interview/life-lessons-from-laura-wasser-divorce-lawyer-to-the-stars",
+					"displayedUrl": "https://www.newyorker.com › Culture › Marriage",
+					"description": "The so-called disso queen, whose former clients range from Kim Kardashian to Johnny Depp, reflects on the state of our unions.",
+					"date": "2022-07-11T12:00:00.000Z",
+					"emphasizedKeywords": [],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 4
+				},
+				{
+					"title": "Laura Wasser (Rhetoric '91)",
+					"url": "https://artshumanities.berkeley.edu/laura-wasser-rhetoric-91",
+					"displayedUrl": "https://artshumanities.berkeley.edu › laura-wasser-rhetori...",
+					"description": "Laura Wasser graduated from UC Berkeley with a degree in Rhetoric. She is one of the highest-profile divorce lawyers in the country.",
+					"emphasizedKeywords": [
+						"Laura Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 5
+				},
+				{
+					"title": "ATTORNEY & PARALEGAL PROFILES – Los Angeles ...",
+					"url": "https://wcmfamilylaw.com/attorneys/",
+					"displayedUrl": "https://wcmfamilylaw.com › attorneys",
+					"description": "Laura A. Wasser. Laura Wasser is an American attorney specializing in California Family Law. She was born in Los Angeles. She attended the University of ...",
+					"emphasizedKeywords": [
+						"Laura Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 6
+				},
+				{
+					"title": "Laura Wasser - Loyola Marymount University",
+					"url": "https://www.lls.edu/thellsdifference/facesoflls/laurawasser/laurawasser.html",
+					"displayedUrl": "https://www.lls.edu › thellsdifference › facesoflls › laur...",
+					"description": "Laura Wasser '94 has made international headlines for her representation of Kim Kardashian West after filing divorce papers for her split from Kanye West.",
+					"emphasizedKeywords": [
+						"Laura Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 7
+				},
+				{
+					"title": "Laura Wasser",
+					"url": "https://divorce.com/laura-wasser",
+					"displayedUrl": "https://divorce.com › laura-wasser",
+					"description": "On this page, Laura dishes on how divorce really works behind the scenes and her passion for easing the toll divorce can take on families and children.",
+					"emphasizedKeywords": [
+						"Laura"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 8
+				},
+				{
+					"title": "Christina Hall hires divorce lawyer Laura Wasser after ...",
+					"url": "https://pagesix.com/2024/11/26/celebrity-news/christina-hall-hires-divorce-lawyer-laura-wasser-after-josh-split/",
+					"displayedUrl": "https://pagesix.com › 2024/11/26 › celebrity-news › ch...",
+					"description": "Christina Hall has hired powerhouse attorney Laura Wasser for her divorce from Josh Hall. Wasser has represented famous clients like Kim ...",
+					"date": "2024-11-26T12:00:00.000Z",
+					"emphasizedKeywords": [
+						"Laura Wasser"
+					],
+					"siteLinks": [],
+					"productInfo": {},
+					"type": "organic",
+					"position": 9
+				}
+			],
+			"suggestedResults": [],
+			"peopleAlsoAsk": [
+				{
+					"question": "How did Laura Wasser get famous?",
+					"answer": "Laura Wasser '94 has made international headlines for her representation of Kim Kardashian West in her split from Kanye West. Previously the subject of a glowing New York Times profile of her career, \"Angelina Jolie Turns to Divorce Specialist Laura Wasser,\" Wasser is no stranger to celebrity clients.",
+					"url": "https://www.lls.edu/thellsdifference/facesoflls/laurawasser/laurawasser.html#:~:text=from%20Kanye%20West-,Laura%20Wasser%20'94%20has%20made%20international%20headlines%20for%20her%20representation,no%20stranger%20to%20celebrity%20clients.",
+					"title": "Laura Wasser - Loyola Marymount University",
+					"date": ""
+				},
+				{
+					"question": "How many kids does Laura Wasser have?",
+					"answer": "She has two young sons and resides in Malibu, California. She has been named one of the California Daily Journal's Top 100 Lawyers and Southern California's Top 50 Women Attorneys every year for the last 10 years (2012-2022).",
+					"url": "https://wcmfamilylaw.com/laura-wasser/#:~:text=She%20has%20two%20young%20sons,years%20(2012%2D2022).",
+					"title": "laura – wasser – Los Angeles Family Law Lawyers",
+					"date": ""
+				},
+				{
+					"question": "Who is the wife of Dennis Wasser?",
+					"answer": "Laura WasserBornLaura Allison Wasser 1968 (age 55–56) Los Angeles, California, U.S.Other namesThe Disso QueenAlma materUniversity of California, Berkeley Loyola Marymount UniversityOccupationAttorney1 more row",
+					"url": "https://en.wikipedia.org/wiki/Laura_Wasser",
+					"title": "Laura Wasser - Wikipedia",
+					"date": ""
+				}
+			],
+			"customData": null,
+			"htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/WAyJegIDIJSRanJo1/records/WQvGWVtXdrw0eb2-0.html"
+		}
+	]
+}
